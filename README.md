@@ -52,6 +52,18 @@ La interfaz de programación de aplicaciones, conocida también por la sigla API
   </tr>
 </table>
 
+## Api Privada
+
+- Api interna de una Empresa
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/demo4.png" />
+    </td>
+  </tr>
+</table>
+
 
 # Captura de imagenes de Ejemplo (.net Core)
 
