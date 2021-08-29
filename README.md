@@ -28,9 +28,18 @@ La interfaz de programación de aplicaciones, conocida también por la sigla API
   </tr>
 </table>
 
+## Ejemplo de API
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/demo1.png" />
+    </td>
+  </tr>
+</table>
 
 
-# Captura de imagenes de Ejemplo
+# Captura de imagenes de Ejemplo (.net Core)
 
 <table align="center">
   <tr>
