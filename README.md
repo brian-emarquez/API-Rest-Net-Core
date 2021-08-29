@@ -82,6 +82,9 @@ La interfaz de programación de aplicaciones, conocida también por la sigla API
 ## JSON
 
 - La Solicitud devuelve un archivo en formato JSON
+- Estandar en la tranferencia de Datos
+- Similar a XML
+
 
 <table align="center">
   <tr>
@@ -91,3 +94,9 @@ La interfaz de programación de aplicaciones, conocida también por la sigla API
   </tr>
 </table>
 
+
+
+
+## Creador
+
+[The Coder Cave esp](https://www.youtube.com/watch?v=-BhQEntPrFE)
