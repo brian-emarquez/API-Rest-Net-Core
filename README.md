@@ -118,6 +118,20 @@ La interfaz de programación de aplicaciones, conocida también por la sigla API
   </tr>
 </table>
 
+## REST
+
+* Representational
+* State
+* Transfer
+
+Endpoint Rutas  (Ejemplos)
+
+- /users
+- /contacs
+- /ordes
+- /products
+
+
 
 ## Creador
 
