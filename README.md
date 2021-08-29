@@ -30,10 +30,24 @@ La interfaz de programación de aplicaciones, conocida también por la sigla API
 
 ## Ejemplo de API
 
+-API de Instagram para las cantidad de seguidores por ejemplo
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/demo1.png" />
+    </td>
+  </tr>
+</table>
+
+## API Publica
+
+[API Publicas](https://public-apis.io/)
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/demo2.png" />
     </td>
   </tr>
 </table>
