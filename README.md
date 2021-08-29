@@ -15,6 +15,19 @@ La interfaz de programación de aplicaciones, conocida también por la sigla API
 </table>
 
 
+## Ejemplo del Clima
+
+- Conexión a un API del clima
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/demo.png" />
+    </td>
+  </tr>
+</table>
+
 
 
 # Captura de imagenes de Ejemplo
