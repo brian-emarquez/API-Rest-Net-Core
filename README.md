@@ -79,4 +79,15 @@ La interfaz de programación de aplicaciones, conocida también por la sigla API
   </tr>
 </table>
 
+## JSON
+
+- La Solicitud devuelve un archivo en formato JSON
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/demo3.png" />
+    </td>
+  </tr>
+</table>
 
